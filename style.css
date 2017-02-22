@@ -5,9 +5,7 @@ body {
     overflow-x: hidden;
 }
 
-.full-width {
-    width: 100%;
-}
+.full-width { width: 100%; }
 
 pre {
     background-color: #eee;
